@@ -131,4 +131,3 @@ Promotion rates were relatively similar across genders, indicating limited dispa
 
 Abhay Goral
 
-Aspiring Data Analyst | Excel | SQL | Python | Power BI
