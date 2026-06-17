@@ -51,6 +51,23 @@ Promotion rates were relatively similar across genders, indicating limited dispa
 
 ---
 
+## Project Structure
+
+```text
+Talent-Management-Promotion-Analytics-Dashboard/
+│
+├── dashboard/
+│   └── Talent Management & Promotion Analytics Dashboard.xlsx
+│
+├── dataset/
+│   └── train.csv
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
+```
+
 ## Dashboard Features
 
 ### KPI Cards
