@@ -10,7 +10,7 @@ The dashboard was built using Excel Pivot Tables, Pivot Charts, KPI Cards, Slice
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard_preview.png)
+![Dashboard Screenshot](images/dashboard_preview.png)
 
 ---
 
